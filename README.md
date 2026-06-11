@@ -2,7 +2,11 @@
 Cisco Packet Tracer Lab: Two-Router Network with DHCP and Static Routing
 # Cisco Packet Tracer Lab: Interconnecting Two Routers with DHCP and Static Routing
 
-![Topology]([https://raw.githubusercontent.com/username/repo/main/images/topology.png](https://github.com/Madhusudanbhattarai/cisco-packet-tracer-2-router-dhcp-static-routing/blob/main/Screenshot%20from%202026-06-11%2022-07-28.png?raw=true))
+## Network Topology
+
+![Topology](Screenshot from 2026-06-11 22-07-28.png)
+
+This shows 2 routers connected with serial link and multiple LANs.
 
 ## Objective
 
