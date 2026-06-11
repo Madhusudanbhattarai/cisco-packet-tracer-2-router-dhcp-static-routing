@@ -2,6 +2,8 @@
 Cisco Packet Tracer Lab: Two-Router Network with DHCP and Static Routing
 # Cisco Packet Tracer Lab: Interconnecting Two Routers with DHCP and Static Routing
 
+![Topology]([https://raw.githubusercontent.com/username/repo/main/images/topology.png](https://github.com/Madhusudanbhattarai/cisco-packet-tracer-2-router-dhcp-static-routing/blob/main/Screenshot%20from%202026-06-11%2022-07-28.png?raw=true))
+
 ## Objective
 
 The objective of this lab is to configure two Cisco 4331 routers, connect multiple LAN networks through switches, provide automatic IP addressing using DHCP, and establish communication between end devices located on different routers.
